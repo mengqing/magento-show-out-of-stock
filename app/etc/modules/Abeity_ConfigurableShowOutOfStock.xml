@@ -3,7 +3,7 @@
   <modules>
     <Abeity_ConfigurableShowOutOfStock>
       <active>true</active>
-      <codePool>local</codePool>
+      <codePool>community</codePool>
     </Abeity_ConfigurableShowOutOfStock>
   </modules>
 </config>

@@ -6,10 +6,10 @@
 class Abeity_ConfigurableShowOutOfStock_Catalog_Block_Product_View_Type_Configurable extends Mage_Catalog_Block_Product_View_Type_Configurable
 {
 	/**
-	 * undocumented function
+	 * Retrieve all products
 	 *
 	 * @return void
-	 * @author Meng Qing Zhang
+	 * @author Jimmy
 	 */
 	public function getAllowProducts()
 	{
