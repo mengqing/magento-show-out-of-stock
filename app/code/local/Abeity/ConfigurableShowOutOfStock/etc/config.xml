@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <Abeity_ConfigurableShowOutOfStock>
+            <version>0.1.0</version>
+        </Abeity_ConfigurableShowOutOfStock>
+    </modules>
+    <global>
+        <blocks>
+            <catalog>
+                <rewrite>
+                    <product_view_type_configurable>Abeity_ConfigurableShowOutOfStock_Catalog_Block_Product_View_Type_Configurable</product_view_type_configurable>
+                </rewrite>
+            </catalog>
+        </blocks>
+    </global>
+    <frontend>
+        <layout>
+            <updates>
+                <configurableshowoutofstock>
+                    <file>configurableshowoutofstock.xml</file>
+                </configurableshowoutofstock>
+            </updates>
+        </layout>
+    </frontend>
+</config>
